@@ -1,0 +1,1 @@
+export { Organism } from "./Organism"
